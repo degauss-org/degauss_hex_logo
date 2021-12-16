@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="450" viewBox="0 0 450 450">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #e0e5e7;
+      }
+
+      .cls-3, .cls-8 {
+        fill: #469fc2;
+      }
+
+      .cls-10, .cls-4 {
+        fill: #072b67;
+      }
+
+      .cls-4, .cls-7, .cls-8, .cls-9 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-5 {
+        opacity: 0.28;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-9 {
+        fill: #c2326b;
+      }
+
+      .cls-10 {
+        font-size: 48px;
+        font-family: FiraSans-Regular, Fira Sans;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-12 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-13 {
+        letter-spacing: -0.01em;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path class="cls-1" d="M224.43,327.73c2.31-10.21,4.3-23.2,7.32-33.22s8.55-19.53,16.66-26.14,20.47-10.05,30-5.64,15.65-6.25,2,21.93C265.49,315.31,236.5,320.77,224.43,327.73Z"/>
+    </clipPath>
+  </defs>
+  <g id="hex_logo" data-name="hex logo">
+    <g>
+      <g>
+        <polygon class="cls-2" points="42.51 330.36 42.51 119.64 225 14.27 407.5 119.64 407.5 330.36 225 435.73 42.51 330.36"/>
+        <path class="cls-3" d="M225,17.52,404.68,121.26V328.74L225,432.48,45.32,328.74V121.26L225,17.52M225,11,39.69,118V332L225,439,410.31,332V118L225,11Z"/>
+      </g>
+      <g>
+        <ellipse class="cls-4" cx="225" cy="321.79" rx="150" ry="27.55"/>
+        <g id="shadow" class="cls-5">
+          <g class="cls-6">
+            <ellipse class="cls-7" cx="225" cy="321.79" rx="150" ry="27.55"/>
+          </g>
+        </g>
+        <path class="cls-8" d="M224.43,326.85c-13.2-20.9-28.87-41.07-40.57-62.85S165.54,217.11,168,192.52s17.41-51,40.63-59.47,48.67,6.63,60.24,35.87c14,35.34,3,71-8.63,97C248.81,291.52,241.37,304.41,224.43,326.85Z"/>
+        <circle class="cls-9" cx="221.49" cy="181.53" r="18.19"/>
+      </g>
+      <text class="cls-10" transform="translate(126.24 117.4)">DeG<tspan class="cls-11" x="87.31" y="0">A</tspan><tspan class="cls-12" x="114.33" y="0">U</tspan><tspan class="cls-13" x="145.78" y="0">S</tspan><tspan x="171.36" y="0">S</tspan></text>
+    </g>
+  </g>
+</svg>

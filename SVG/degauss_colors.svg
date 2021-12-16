@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400.35" height="393.09" viewBox="0 0 400.35 393.09">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c2326b;
+      }
+
+      .cls-2 {
+        fill: #469fc2;
+      }
+
+      .cls-3 {
+        fill: #6c4370;
+      }
+
+      .cls-4 {
+        fill: #83c3c3;
+      }
+
+      .cls-5 {
+        fill: #072b67;
+      }
+
+      .cls-6 {
+        fill: #e0e5e7;
+      }
+    </style>
+  </defs>
+  <g id="Colors">
+    <g>
+      <circle class="cls-1" cx="143.05" cy="196.55" r="44.09"/>
+      <circle class="cls-2" cx="259.79" cy="196.55" r="44.09"/>
+      <circle class="cls-3" cx="143.05" cy="76.92" r="44.09"/>
+      <circle class="cls-4" cx="257.3" cy="76.92" r="44.09"/>
+      <circle class="cls-5" cx="140.56" cy="316.17" r="44.09"/>
+      <circle class="cls-6" cx="257.3" cy="316.17" r="44.09"/>
+    </g>
+  </g>
+</svg>

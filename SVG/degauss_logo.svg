@@ -1,0 +1,55 @@
+<svg id="Pin" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="450" viewBox="0 0 450 450">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #072b67;
+      }
+
+      .cls-2, .cls-5, .cls-6, .cls-7 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-6, .cls-7 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-3 {
+        opacity: 0.28;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        stroke-width: 1.52px;
+      }
+
+      .cls-6 {
+        fill: #469fc2;
+      }
+
+      .cls-7 {
+        fill: #c2326b;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path class="cls-1" d="M224.43,312.71c2.31-10.21,4.3-23.2,7.32-33.22s8.55-19.53,16.66-26.14,20.47-10,30-5.64,15.65-6.25,2,21.94C265.49,300.29,236.5,305.75,224.43,312.71Z"/>
+    </clipPath>
+  </defs>
+  <g>
+    <ellipse class="cls-2" cx="225" cy="306.77" rx="150" ry="27.55"/>
+    <g id="shadow" class="cls-3">
+      <g class="cls-4">
+        <ellipse class="cls-5" cx="225" cy="306.77" rx="150" ry="27.55"/>
+      </g>
+    </g>
+    <path class="cls-6" d="M224.43,311.83c-13.2-20.9-28.87-41.07-40.57-62.85S165.54,202.09,168,177.5s17.41-51,40.63-59.47,48.67,6.63,60.24,35.87c14,35.35,3,71-8.63,97C248.81,276.5,241.37,289.4,224.43,311.83Z"/>
+    <circle class="cls-7" cx="221.49" cy="166.51" r="18.19"/>
+  </g>
+</svg>
